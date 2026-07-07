@@ -63,3 +63,12 @@ footer{
     width: 400px;
     margin-top: 20px;
 }
+
+.mundial-menu a{
+    color: inherit;
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
